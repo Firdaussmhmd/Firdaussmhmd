@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Hi%20there%20👋&fontSize=40)
 <p align="left">
-  <a href="https://github.com/PencintaSenja"><img src="https://github-readme-stats.vercel.app/api?username=Firdaussmhmda&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Firdaussmhmd"><img src="https://github-readme-stats.vercel.app/api?username=Firdaussmhmd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="left">
